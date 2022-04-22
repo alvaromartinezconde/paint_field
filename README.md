@@ -1,5 +1,3 @@
-# PoC Print Football (soccer) field
+# Print Fields
 
-This program prints a football field using python matplotlib
-
-> Notations for rendering using Visual Code included
+> Library to print football fields
